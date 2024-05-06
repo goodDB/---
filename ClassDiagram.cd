@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAnimal">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>ConsoleApplication2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHorse">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAACAAAAAQAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>ConsoleApplication2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBird">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAIAAAEAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>ConsoleApplication2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLion">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACYAAAAAAAAAAAAEIAAAAAAAEAAAAAAgAA=</HashCode>
+      <FileName>ConsoleApplication2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHippogriff">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAIAAAAA=</HashCode>
+      <FileName>ConsoleApplication2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
